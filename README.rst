@@ -39,6 +39,24 @@ References
 Medical students & coding
 *************************
 
-
 * `Morton et al. 2019 <https://mededu.jmir.org/2019/1/e11940/>`_ - Computer Programming: Should Medical Students Be Learning It?
 
+
+
+******
+Python
+******
+
+-----
+MOOCs
+-----
+
+* `fun-mooc <https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/>`_ - Python des fondamentaux aux concepts avancés du langage
+* `fun-mooc <https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/>`_ - Machine learning in Python with scikit-learn
+
+--------
+Packages
+--------
+
+* `10 minutes to pandas <https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html>`_
+* `Introduction to NumPy and Matplotlib  <https://sebastianraschka.com/blog/2020/numpy-intro.html>`_ by Sebastian Raschka
